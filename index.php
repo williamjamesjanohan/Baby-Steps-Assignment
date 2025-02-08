@@ -7,8 +7,8 @@
 </head>
 <body>
     <?php
-        
-        echo "Hellow world";
+        $greeting = "Hello";
+        echo "$greeting Everybody";
     ?>
 </body>
 </html>
